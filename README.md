@@ -93,12 +93,10 @@
 AI-RSS-News-Automation
 │
 ├── README.md
-│
-├── docs
-│   ├── 01_project_planning.md
-│   ├── 02_workflow_description.md
-│   ├── 03_project_decision_log.md
-│   └── 04_project_result.md
+├── 01_Project_Plan.md
+├── 02_Workflow_Description.md
+├── 03_Project_Decision_Log.md
+├── 04_Project_Result.md
 │
 └── images
     ├── workflow_main.png
@@ -106,7 +104,7 @@ AI-RSS-News-Automation
     ├── filter_result.png
     ├── gemini_result.png
     ├── json_parse.png
-    ├── thumbnail_result.png
+    ├── thumbnail.png
     ├── drive_result.png
     ├── notion_result.png
     └── discord_error.png
