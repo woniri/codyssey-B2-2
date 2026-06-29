@@ -217,7 +217,7 @@ Make의 RSS 모듈을 이용하여 지정한 기술 뉴스 RSS Feed를 주기적
 **증빙 이미지**
 
 * rss_module.png
-* rss_result.png
+* filter_result.png
 
 ---
 
